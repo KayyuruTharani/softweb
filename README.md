@@ -29,7 +29,7 @@ Publish the website in the given URL.
 
 ## PROGRAM:
 
-# web.html:
+### web.html:
 ```
 <!DOCTYPE html>
 <html lang="en">
@@ -326,7 +326,7 @@ Publish the website in the given URL.
 
 </html>
 ```
-# index.html:
+### index.html:
 ```
 <!DOCTYPE html>
 <html lang="en">
@@ -621,7 +621,7 @@ Publish the website in the given URL.
 </body>
 </html>
 ```
-# products.html
+### products.html
 ```
 <!DOCTYPE html>
 <html lang="en">
@@ -804,7 +804,7 @@ Publish the website in the given URL.
 </body>
 </html>
 ```
-# people.html:
+### people.html:
 ```
 <!DOCTYPE html>
 <html lang="en">
@@ -987,7 +987,7 @@ Publish the website in the given URL.
 </body>
 </html>
 ```
-# contact.html:
+### contact.html:
 ```
 <!DOCTYPE html>
 <html lang="en">
